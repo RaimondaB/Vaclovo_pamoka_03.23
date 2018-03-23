@@ -22,8 +22,8 @@
         android:layout_weight="1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
-    <TextView
-        android:id="@+id/textViewTwo"
+    <ImageView
+        android:id="@+id/imageViewOne"
 
         android:background="@color/defaultTextBackgroudColor"
         android:layout_marginTop="1dp"
@@ -31,6 +31,7 @@
         android:layout_marginRight="2dp"
         android:layout_marginBottom="1dp"
         android:layout_weight="3"
+        android:src="@drawable/default_picture"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
